@@ -15,5 +15,5 @@ app.use(router);
 seed.loadSeed();
 
 app.listen(3000, () => {
-  console.log("Servidor rodando em http://localhost:3000")
+  console.log("Rodou hein!! Entra aqui pra ver ó: http://localhost:3000")
 });
